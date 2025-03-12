@@ -1,0 +1,12 @@
+{
+  "title": "VR project name",
+  "team": 15,
+  "source": "tvs_project_rename",
+  "authors": [
+    {"fullname": "Jan Example", "email": "exampjan@fel.cvut.cz"},
+    {"fullname": "Aleš Vopršálek", "email": "voprsale@fit.cvut.cz"}
+  ],
+  "summary": "An amazing VR world with a lot of interactions",
+  "opensource": true,
+  "url": "http://pacman.com"
+}
