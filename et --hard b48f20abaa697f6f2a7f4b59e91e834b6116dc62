@@ -1,0 +1,139 @@
+[33mcommit 4d12d43fa3330b9cab120321e39e39e1209f3e5a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 5d70f95 b48f20a
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 13:40:11 2026 +0100
+
+    Mob bull
+
+[33mcommit 5d70f95bf8b080ef5a17c72c61d82a8fe65516bd[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 13:37:48 2026 +0100
+
+    Mob bull
+
+[33mcommit b48f20abaa697f6f2a7f4b59e91e834b6116dc62[m
+Author: lumpenbase <105542229+lumpenbase@users.noreply.github.com>
+Date:   Mon Jan 5 13:36:16 2026 +0100
+
+    fdd
+
+[33mcommit 207213d80d9cdadb6482723357dae5e31de201ab[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 12:36:42 2026 +0100
+
+    Mob bullet damage fix
+
+[33mcommit 76da5b11fa043c0eebf3f847ffccb8fb646bf941[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 11:49:20 2026 +0100
+
+    Glock
+
+[33mcommit 283a6f98330ce521084d2ae16617dd17012dfe38[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 11:12:50 2026 +0100
+
+    mka placement fix
+
+[33mcommit e6b94f3cd710e5ad361b1ffff8242c39b7c2258b[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 10:57:06 2026 +0100
+
+    mka fix
+
+[33mcommit 001118043124c0dea9ffb88310b8b6969f701cfc[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 10:41:42 2026 +0100
+
+    mka fix
+
+[33mcommit f82489df7dfbe3a4f3db15aa32e1df4ee893afcc[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 10:40:58 2026 +0100
+
+    mka fix
+
+[33mcommit b03c72ae1a349a1c31092d36eaa74830d7fa5a9d[m
+Merge: 8c3b729 3c3f698
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 10:05:06 2026 +0100
+
+    Resolved map conflict by accepting remote version
+
+[33mcommit 8c3b7299f96f52e38161396dc4929e1e12e36adc[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 10:01:44 2026 +0100
+
+    Hammer fix 3
+
+[33mcommit 3c3f6987107058305fb557deb3e712fca6e38a34[m
+Author: lumpenbase <105542229+lumpenbase@users.noreply.github.com>
+Date:   Mon Jan 5 10:00:28 2026 +0100
+
+    m4
+
+[33mcommit 163997cb4f93debcdd4c78c843c3bc3378585d71[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Mon Jan 5 09:58:30 2026 +0100
+
+    Hammer fix 2
+
+[33mcommit da7a0a50e2041873f4e25ea6b8cc3569579552c9[m
+Author: lumpenbase <105542229+lumpenbase@users.noreply.github.com>
+Date:   Mon Jan 5 09:17:53 2026 +0100
+
+    Add M16/M4A1 weapon base logic
+
+[33mcommit 73d9206449f297353cb41b92f6f432b4929a71d0[m
+Author: lumpenbase <105542229+lumpenbase@users.noreply.github.com>
+Date:   Sun Jan 4 17:23:21 2026 +0100
+
+    M4A1/M16.
+
+[33mcommit ae7ea85148802a9c59e688522a7eb839df47fc94[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Sun Jan 4 16:07:52 2026 +0100
+
+    Hammer fix
+
+[33mcommit df73942fdac4d9e6f4b1eff924c27cdf04b95a18[m
+Author: lumpenbase <105542229+lumpenbase@users.noreply.github.com>
+Date:   Sun Jan 4 06:09:17 2026 +0100
+
+    Add M4A1 weapon: firing logic, bullet, casing ejection and muzzle smoke
+
+[33mcommit 42dcff116cf1c43079abd1497ff33f24b5685cfe[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Fri Jan 2 17:54:41 2026 +0100
+
+    Update files in team08
+
+[33mcommit c6af820a617c3a75fa546445a1058ac582229aa3[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Wed Dec 31 06:59:37 2025 +0100
+
+    Replaced Unity template with Unreal Engine project setup
+
+[33mcommit 92bcbeb4364e92120e495ad8cbce86acced2b3bf[m[33m ([m[1;33mtag: [m[1;33mreport3[m[33m)[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Tue Dec 16 02:03:56 2025 +0100
+
+    Add report3 (team08)
+
+[33mcommit 8b737ffc44a8a99879c4523fa0b9e12d8b6c1990[m[33m ([m[1;33mtag: [m[1;33mreport2[m[33m)[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Sun Nov 23 18:35:26 2025 +0100
+
+    Add VR report 2
+
+[33mcommit c070f19503a9c5b2be37ca78c4f6d0898adae946[m[33m ([m[1;33mtag: [m[1;33mreport1[m[33m)[m
+Author: Veshikov <zhidkale@fel.cvut.cz>
+Date:   Tue Nov 18 18:37:31 2025 +0100
+
+    Add VR report 1
+
+[33mcommit a5392296e31e6b4f1684137658eb120b6548a23c[m
+Author: sedlad1 <sedlad1@sedlad1-pc.felk.cvut.cz>
+Date:   Sun Oct 5 17:31:30 2025 +0200
+
+    Initial commit
