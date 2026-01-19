@@ -1,15 +1,13 @@
-# PingPong VR team
+# TRAINDRAIN team
 
-Představujeme vám nejlepší VR online realtime tahovou strategii - PingPong.
-
-více info na **[WIKI](https://gitlab.fel.cvut.cz/B181_B0B39VAR/sample_project/wikis)**
+TRY TO RIDE THE TRAIN AS FAR AS POSSIBLE. KILL THEM MONSTERS AND TRY TO SURVIVE.
 
 
 ## Členové týmu
 
-* velká pálka <velka@palka.ctu.cz>
-* malá pálka <mala@palka.ctu.cz>
-* míček <micek@no-palka.ctu.cz>
+* Zaikin Volodymir zaikivol@fel.cvut.cz
+* Zhidkov Aleksandr zhidkale@student.cvut.cz
+
 
 ## INFO - Jak nakládat s tímto repositářem
 1. Zachovejte strukturu: 
