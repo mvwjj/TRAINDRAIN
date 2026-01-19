@@ -1,0 +1,19 @@
+# Unreal generated
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.vc.db
+*.vc.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Packaged build output (DO NOT COMMIT)
+var_submission/bin_vr/
