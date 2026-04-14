@@ -11,11 +11,11 @@ If you fail to keep the train operational, the run ends.
 
 ## Screenshots
 
-![TrainDrain screenshot 1](media/image1.png)
+![TrainDrain screenshot 1](https://github.com/mvwjj/TRAINDRAIN/releases/download/readme-assets/image1.png)
 
-![TrainDrain screenshot 2](media/image2.png)
+![TrainDrain screenshot 2](https://github.com/mvwjj/TRAINDRAIN/releases/download/readme-assets/image2.png)
 
-![TrainDrain screenshot 3](media/image3.png)
+![TrainDrain screenshot 3](https://github.com/mvwjj/TRAINDRAIN/releases/download/readme-assets/image3.png)
 
 ## Core Gameplay Loop
 
